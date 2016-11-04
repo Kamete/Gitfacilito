@@ -1,0 +1,17 @@
+commit a274bc39f497be6250069c025984d869e521c729
+Author: Miguel <miguel_ffx2@hotmail.com>
+Date:   Fri Nov 4 21:07:30 2016 +0100
+
+    cambiamos a Hola mundo
+
+commit e63450ecc8390454182833b79d43962231071f6c
+Author: Miguel <miguel_ffx2@hotmail.com>
+Date:   Fri Nov 4 20:56:46 2016 +0100
+
+    Cambiamos la palabra a Hola món
+
+commit f1f2b7120c6d0c318410cfb0206a12c4d225d046
+Author: Miguel <miguel_ffx2@hotmail.com>
+Date:   Fri Nov 4 20:50:11 2016 +0100
+
+    iniciamos
