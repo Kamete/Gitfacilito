@@ -3,8 +3,7 @@
  */
 public class Crida {
     public void main(String[] args) {
-        Git b = new Git();
-        b.printHola();
+        Scanner stdin = new Scanner(System.in); String line = stdin.nextLine()
     }
 
 }
