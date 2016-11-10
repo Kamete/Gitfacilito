@@ -3,6 +3,6 @@
  */
 public class Git {
     public void printHola() {
-        System.out.println("Hola Xavi!");
+        System.out.println("Hola Xavi Test!");
     }
 }
